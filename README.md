@@ -104,9 +104,7 @@ This project is currently unlicensed. Feel free to use it for educational purpos
 
 ## Author
 
-**Hanan Chaudhary**  
+**Hanan Ashraf**  
 GitHub: [@Chaudhary-Hanan](https://github.com/Chaudhary-Hanan)
 
 ---
-
-**Happy Studying! 🎓**
